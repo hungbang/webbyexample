@@ -1,7 +1,3 @@
-import sun.misc.Resource;
-
-import javax.inject.Inject;
-
 /**
  * Created by KAI on 9/30/17.
  */
